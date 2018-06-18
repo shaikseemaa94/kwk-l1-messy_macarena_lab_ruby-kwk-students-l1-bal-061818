@@ -44,4 +44,4 @@ Finished in 0.02589 seconds (files took 0.31186 seconds to load)
 3 examples, 1 failure
 ```
 
-That's telling you that Step 2 in `macarena.rb` is currently broken. Can you figure out the fix based on the error message above?
+That's telling you that Stin `macarena.rb` is currently broken. Can you figure out the fix based on the error message above?
